@@ -56,7 +56,8 @@ compression_folder
 
 ##Screenshots
 gui 
-<img width="1277" alt="compression_desc" src="https://github.com/user-attachments/assets/dc430f86-0036-40d0-bede-67bf6a563bfb">
+<img width="1277" alt="compression_desc" src="https://github.com/user-attachments/assets/eaadb7f6-fcba-49c0-9617-256950878313">
+
 
 
 
